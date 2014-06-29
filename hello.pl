@@ -3,4 +3,3 @@ use strict;
 use warnings;
 
 print "Hello, world!\n";
-use Acme::FizzBuzz;
